@@ -30,6 +30,8 @@ setup(
     keywords=['voronoi', 'polygon', 'fortune', 'algorithm'],
     classifiers=[],
     install_requires=[
-        "numpy", "matplotlib", "graphviz"
+        "numpy",
+#        "matplotlib",
+#        "graphviz"
     ]
 )
